@@ -5,7 +5,7 @@ and the second one using Minimax algorithm (hard).
 Current game can be saved and then loaded again from file.
 
 ## What I learned
-* Polymorphism and heredity
+* Polymorphism and inheritance
 * Minimax algorithm
 * Creating and reading my own format to save and load game from files
 
