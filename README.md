@@ -4,11 +4,6 @@ You can play either against another human being or against AI. The AI has two di
 and the second one using Minimax algorithm (hard).
 Current game can be saved and then loaded again from file.
 
-## What I learned
-* Polymorphism and inheritance
-* Minimax algorithm
-* Creating and reading my own format to save and load game from files
-
 ## How to play
 - Download this repo, go into the folder and type `make all`, makefile will link all the dependencies and run the game.
 * You can move through the menu by using 'W' and 'S' keys to move up and down and enter to confirm your choice.
